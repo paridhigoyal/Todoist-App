@@ -37,3 +37,15 @@
     transform: translateY(0px)
   }
 }
+.Modal {
+
+  position: absolute;
+  top: 40px;
+  left: 40px;
+  right: 40px;
+  bottom: 40px;
+  box-sizing: 50%;
+box-shadow: brown;
+padding:spacing(2,4,6);
+  background-color: bisque;
+}
