@@ -12,6 +12,13 @@
     animation: App-logo-float infinite 3s ease-in-out;
   }
 }
+.div{
+text-align :left;
+align-self: left;
+}
+.input{
+  align-items :center;
+}
 
 .App-header {
   min-height: 100vh;
@@ -47,5 +54,5 @@
   box-sizing: 50%;
 box-shadow: brown;
 padding:spacing(2,4,6);
-  background-color: bisque;
+  background-color:white;
 }
